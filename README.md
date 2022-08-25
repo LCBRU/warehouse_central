@@ -1,2 +1,2 @@
-# warehouse_central
+# warehouse_config
 BRC Data Warehouse Configuration
